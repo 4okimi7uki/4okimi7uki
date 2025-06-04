@@ -30,7 +30,7 @@ _Exploring UI/UX design, full-stack architecture, Rust × Web integration, TypeS
 
 Rust による低レイヤー処理を学ぶために作成中。  
 クロスプラットフォーム（Mac/Windows）で動作し、  
-シャットダウンをトリガーに勤怠処理などを行う補助ツールを想定しています。
+シャットダウンをトリガーに勤怠処理などを行う補助ツールを想定。
 
 `#Rust`, `#tokio`, `#signal_handling`, `#system_programming`
 
