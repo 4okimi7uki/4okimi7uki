@@ -2,7 +2,9 @@
 
 **Software Engineer** 🍕
 
-興味: UI/UX 設計、Full-stack 開発、Rust × Web、TypeScript、SaaS 開発
+`#UI/UX設計` `#Full-stack開発` `#Rust×Web` `#TypeScript` `#SaaS開発`
+
+_Exploring UI/UX design, full-stack architecture, Rust × Web integration, TypeScript, and product-focused SaaS development._
 
 ## 🚀 My Projects
 
@@ -16,7 +18,8 @@
 **思想ベースの UI 設計と OSS 活動**として継続的に開発・改善中。
 
 -   [Demo page](https://4okimi7uki.github.io/kongari-toast/)
--   `TypeScript`, `CSS Animation`, `npm`
+
+`#TypeScript`, `#CSSAnimation`, `#npm`
 
 ---
 
@@ -29,7 +32,7 @@ Rust による低レイヤー処理を学ぶために作成中。
 クロスプラットフォーム（Mac/Windows）で動作し、  
 シャットダウンをトリガーに勤怠処理などを行う補助ツールを想定しています。
 
--   `Rust`, `tokio`, `signal handling`, `system programming`
+`#Rust`, `#tokio`, `#signal_handling`, `#system_programming`
 
 ---
 
