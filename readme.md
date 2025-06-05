@@ -6,6 +6,36 @@
 
 _Exploring UI/UX design, full-stack architecture, Rust × Web integration, TypeScript, and product-focused SaaS development._
 
+## Skills
+
+### Languages
+
+![icons](https://skillicons.dev/icons?i=js,ts,python,rust,php,latex,matlab)
+
+### Frontend
+
+![icons](https://skillicons.dev/icons?i=html,css,wasm,react,tailwind,vite)
+
+### Backend / Frameworks
+
+![icons](https://skillicons.dev/icons?i=nodejs,flask)
+
+### Tools / DevTools
+
+![icons](https://skillicons.dev/icons?i=vscode,docker,git,github,postman)
+
+### Design / UX
+
+![icons](https://skillicons.dev/icons?i=figma)
+
+### OS / Platform
+
+![icons](https://skillicons.dev/icons?i=linux,debian,apple,windows)
+
+### Infra / DevOps
+
+![icons](https://skillicons.dev/icons?i=aws,nginx)
+
 ## 🚀 My Projects
 
 ### [Kongari-Toast](https://github.com/4okimi7uki/kongari-toast)
@@ -19,7 +49,7 @@ _Exploring UI/UX design, full-stack architecture, Rust × Web integration, TypeS
 
 -   [Demo page](https://4okimi7uki.github.io/kongari-toast/)
 
-`#TypeScript`, `#CSSAnimation`, `#npm`
+`#TypeScript` `#CSSAnimation` `#npm`
 
 ---
 
@@ -32,7 +62,7 @@ Rust による低レイヤー処理を学ぶために作成中。
 クロスプラットフォーム（Mac/Windows）で動作し、  
 シャットダウンをトリガーに勤怠処理などを行う補助ツールを想定。
 
-`#Rust`, `#tokio`, `#signal_handling`, `#system_programming`
+`#Rust` `#tokio` `#signal_handling` `#system_programming`
 
 ---
 
@@ -57,4 +87,4 @@ Rust による低レイヤー処理を学ぶために作成中。
 
 ---
 
-_Last updated: 2025/06/04_
+_Last updated: 2025/06/05_
