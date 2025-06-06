@@ -8,9 +8,12 @@ _Exploring UI/UX design, full-stack architecture, Rust × Web integration, TypeS
 
 ## Skills
 
-### Languages
+### Just the good stuff
 
-![icons](https://skillicons.dev/icons?i=js,ts,python,rust,php,latex,matlab)
+![icons](https://skillicons.dev/icons?i=js,ts,react,tailwind,rust,wasm,docker,figma,apple,debian)
+
+<!-- ### Languages I've worked with (but don't use every day)
+![icons](https://skillicons.dev/icons?i=php,python,matlab,latex)
 
 ### Frontend
 
@@ -34,7 +37,7 @@ _Exploring UI/UX design, full-stack architecture, Rust × Web integration, TypeS
 
 ### Infra / DevOps
 
-![icons](https://skillicons.dev/icons?i=aws,nginx)
+![icons](https://skillicons.dev/icons?i=aws,nginx) -->
 
 ## 🚀 My Projects
 
