@@ -15,6 +15,6 @@ jobs:
                   submodules: recursive
 
             - name: Run self-reposcope
-              uses: 4okimi7uki/self-reposcope-action@v1
+              uses: 4okimi7uki/self-reposcope-action@v1.0.1
               with:
                   github_token: ${{ secrets.REPOSCOPE_TOKEN }}
