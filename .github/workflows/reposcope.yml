@@ -18,3 +18,8 @@ jobs:
               uses: 4okimi7uki/self-reposcope-action@v1.0.1
               with:
                   github_token: ${{ secrets.REPOSCOPE_TOKEN }}
+
+            - name: Copy output 
+              shell: bash
+              run: |
+                  cp -r ./tools/self-reposcope/output .
