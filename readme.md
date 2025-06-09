@@ -1,6 +1,6 @@
 # Hi, I'm Mizuki Aoki
 
-**Software Engineer** 🍕
+### **Software Engineer** 🍕
 
 `#UI/UX設計` `#Full-stack開発` `#Rust×Web` `#TypeScript` `#SaaS開発`
 
@@ -11,6 +11,13 @@ _Exploring UI/UX design, full-stack architecture, Rust × Web integration, TypeS
 ### Just the good stuff
 
 ![icons](https://skillicons.dev/icons?i=js,ts,react,tailwind,rust,wasm,docker,figma,apple,debian)
+
+### Stats
+
+<a href="https://github.com/4okimi7uki/self-reposcope"><img src="https://github.com/4okimi7uki/4okimi7uki/blob/main/output/full_languages.svg" alt="stats" />
+<br />
+<em> 👉 Developed by me! — Supports **private** repositories </em>
+</a>
 
 <!-- ### Languages I've worked with (but don't use every day)
 ![icons](https://skillicons.dev/icons?i=php,python,matlab,latex)
@@ -90,4 +97,4 @@ Rust による低レイヤー処理を学ぶために作成中。
 
 ---
 
-_Last updated: 2025/06/05_
+_Last updated: 2025/06/09_
