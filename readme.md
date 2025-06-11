@@ -54,7 +54,7 @@ _Exploring UI/UX design, full-stack architecture, Rust × Web integration, TypeS
 > Released as **open source** project focused on subtle, customizable UI design.
 
 実務経験をベースに抽象化・再設計した UI ライブラリ。  
-アニメーションや通知の“現れ方・消え方”に美学を持ち込み、  
+アニメーションや通知の“現れ方・消え方”にこだわりを持ち込み、  
 **思想ベースの UI 設計と OSS 活動**として継続的に開発・改善中。
 
 -   [Demo page](https://4okimi7uki.github.io/kongari-toast/)
