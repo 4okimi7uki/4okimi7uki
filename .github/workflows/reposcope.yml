@@ -21,8 +21,10 @@ jobs:
               with:
                   github_token: ${{ secrets.REPOSCOPE_TOKEN }}
 
-            - name: Copy output & push
+            - name: Commit and Push updated SVGs
               shell: bash
+              env:
+                  GH_PAT: ${{ secrets.REPOSCOPE_TOKEN }}
               run: |
                   echo "::group::Git Commit and Push"
                   git config --global user.name 'github-actions[bot]'
@@ -31,7 +33,7 @@ jobs:
                   if git diff --cached --quiet; then
                     echo "No changes to commit"
                   else
-                    git commit -m "chore: update language stats svg"
-                    git push HEAD:main
+                    git commit -m "chore: update language stats SVG"
+                    git push https://x-access-token:${GH_PAT}@github.com/${{ github.repository }} HEAD:main
                   fi
                   echo "::endgroup::"
