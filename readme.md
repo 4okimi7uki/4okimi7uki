@@ -90,11 +90,6 @@ Rust による低レイヤー処理を学ぶために作成中。
 -   マイクロサービス間の認証（IdP, JWT, セッション管理）  
     _Authentication across microservices (IdP, JWT, session management)_
 
-## Contact
-
--   X: [@0000ff_ki](https://x.com/0000ff_ki)
--   Qiita: [@0000ff_ki](https://qiita.com/0000ff_ki)
-
 ---
 
-_Last updated: 2025/06/09_
+_Last updated: 2025/06/14_
