@@ -1,10 +1,21 @@
-# Hi, I'm Mizuki Aoki
+# Hi, I'm Mizuki Aoki 🍕
 
-### **Software Engineer** 🍕
+![I work as a SWE](./assets/I_work_as_a_SWE.svg)
+![I work as a SWE](./assets/software_engineer.svg)
 
+## About Me
+
+プロダクト志向で UI/UX や設計思想にこだわるタイプのエンジニアです。  
+Web フロントから Rust × WebAssembly のような低レイヤー領域まで、  
+操作の反応や動きの気持ちよさを重視し、触っていて“直感的に使える”プロダクトを目指しています。
+
+I'm a product-oriented software engineer who loves building thoughtful UI/UX,  
+designing full-stack architecture, and experimenting with new languages and runtimes like Rust.
+
+**Interests**  
 `#UI/UX設計` `#Full-stack開発` `#Rust×Web` `#TypeScript` `#SaaS開発`
 
-_Exploring UI/UX design, full-stack architecture, Rust × Web integration, TypeScript, and product-focused SaaS development._
+_Exploring design-driven development, Web performance, and cross-platform product development._
 
 ## Skills
 
@@ -76,7 +87,7 @@ Rust による低レイヤー処理を学ぶために作成中。
 
 ---
 
-## Interests / Now learning
+## Currently Exploring
 
 -   Rust × WASM によるフロントエンド閉域での UX 向上・画像圧縮などのパフォーマンス設計  
     _Improving UX and performance via Rust × WASM, such as frontend-side image compression_
@@ -92,4 +103,4 @@ Rust による低レイヤー処理を学ぶために作成中。
 
 ---
 
-_Last updated: 2025/06/14_
+_Last updated: 2025/06/16_
