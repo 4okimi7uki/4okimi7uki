@@ -21,7 +21,7 @@ _Exploring design-driven development, Web performance, and cross-platform produc
 
 ### Just the good stuff
 
-![icons](https://skillicons.dev/icons?i=js,ts,react,tailwind,rust,wasm,docker,figma,apple,debian,tauri)
+![icons](https://skillicons.dev/icons?i=js,ts,react,tailwind,rust,wasm,tauri,docker,figma,apple,debian)
 
 ### Stats
 
