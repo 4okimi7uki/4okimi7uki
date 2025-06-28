@@ -11,10 +11,10 @@ jobs:
         permissions:
             contents: write
         steps:
-            - name: Checkout (with submodules)
-              uses: actions/checkout@v3
-              with:
-                  submodules: recursive
+            # - name: Checkout (with submodules)
+            #   uses: actions/checkout@v3
+            #   with:
+            #       submodules: recursive
 
             - name: Run self-reposcope
               uses: 4okimi7uki/self-reposcope-action@v1.0.1
