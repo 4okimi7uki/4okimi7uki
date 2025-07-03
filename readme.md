@@ -74,18 +74,30 @@ _Exploring design-driven development, Web performance, and cross-platform produc
 
 ---
 
+<!--
 ### [shutdown-watcher（WIP）](https://github.com/4okimi7uki/shutdown-watcher)
 
-> A tiny Rust daemon that listens for SIGINT/SIGTERM and performs safe shutdown routines.  
+> A tiny Rust daemon that listens for SIGINT/SIGTERM and performs safe shutdown routines.
 > Inspired by the need for end-of-day actions (like time-tracking) on desktop shutdown.
 
-Rust による低レイヤー処理を学ぶために作成中。  
-クロスプラットフォーム（Mac/Windows）で動作し、  
+Rust による低レイヤー処理を学ぶために作成中。
+クロスプラットフォーム（Mac/Windows）で動作し、
 シャットダウンをトリガーに勤怠処理などを行う補助ツールを想定。
 
-`#Rust` `#tokio` `#signal_handling` `#system_programming`
+`#Rust` `#tokio` `#signal_handling` `#system_programming` -->
 
----
+### [Self-Reposcope](https://github.com/4okimi7uki/self-reposcope)
+
+> Most of our real work hides in private repos.
+> Self-Reposcope reveals what you actually code — safely, and with Rust-powered clarity.
+
+「活動を外に見せたいけど、ほとんどのコードはプライベートリポジトリにある...」
+
+そんな悩みから生まれたのがこのツール。
+GitHub Token, GitHub API を使って、パブリック・プライベート問わず自分のリポジトリを分析し、使用言語の統計情報を可視化。
+Rust のキャッチアップも兼ねて実装。
+
+`#Rust` `#GitHubAPI` `#DataVisualization` `#repository-stats`
 
 ## Currently Exploring
 
@@ -103,4 +115,4 @@ Rust による低レイヤー処理を学ぶために作成中。
 
 ---
 
-_Last updated: 2025/06/16_
+_Last updated: 2025/07/03_
