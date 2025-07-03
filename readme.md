@@ -59,7 +59,7 @@ _Exploring design-driven development, Web performance, and cross-platform produc
 
 ## 🚀 My Projects
 
-### [Kongari-Toast](https://github.com/4okimi7uki/kongari-toast)
+### [Kongari-Toast 🍞](https://github.com/4okimi7uki/kongari-toast)
 
 > A lightly crisp toast notification library built with TypeScript.
 > Released as **open source** project focused on subtle, customizable UI design.
@@ -86,7 +86,7 @@ Rust による低レイヤー処理を学ぶために作成中。
 
 `#Rust` `#tokio` `#signal_handling` `#system_programming` -->
 
-### [Self-Reposcope](https://github.com/4okimi7uki/self-reposcope)
+### [Self-Reposcope 🔍](https://github.com/4okimi7uki/self-reposcope)
 
 > Most of our real work hides in private repos.
 > Self-Reposcope reveals what you actually code — safely, and with Rust-powered clarity.
