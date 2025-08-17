@@ -1,4 +1,4 @@
-# Hi, I'm Mizuki Aoki 🍕
+# Mizuki Aoki 🍕
 
 ![I work as a SWE](./assets/I_work_as_a_SWE.svg)
 ![I work as a SWE](./assets/software_engineer.svg)
@@ -99,20 +99,23 @@ Rust のキャッチアップも兼ねて実装。
 
 `#Rust` `#GitHubAPI` `#DataVisualization` `#repository-stats`
 
+<!--
 ## Currently Exploring
 
--   Rust × WASM によるフロントエンド閉域での UX 向上・画像圧縮などのパフォーマンス設計  
+-   Rust × WASM によるフロントエンド閉域での UX 向上・画像圧縮などのパフォーマンス設計
     _Improving UX and performance via Rust × WASM, such as frontend-side image compression_
 
--   React × Vite × Tailwind による UI/UX 構築  
+-   React × Vite × Tailwind による UI/UX 構築
     _Building modern UI/UX with React, Vite, and Tailwind CSS_
 
--   DevContainer / Docker / GitHub Actions による開発体験・デプロイ最適化  
+-   DevContainer / Docker / GitHub Actions による開発体験・デプロイ最適化
     _Optimizing DX and CI/CD using DevContainer, Docker, and GitHub Actions_
 
--   マイクロサービス間の認証（IdP, JWT, セッション管理）  
+-   マイクロサービス間の認証（IdP, JWT, セッション管理）
     _Authentication across microservices (IdP, JWT, session management)_
+
+-->
 
 ---
 
-_Last updated: 2025/07/03_
+_Last updated: 2025/08/18_
