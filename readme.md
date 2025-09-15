@@ -1,21 +1,37 @@
-# Mizuki Aoki 🍕
-
-![I work as a SWE](./assets/I_work_as_a_SWE.svg)
-![I work as a SWE](./assets/software_engineer.svg)
+<!-- # Mizuki Aoki 🍕 -->
 
 ## About Me
 
-プロダクト志向で UI/UX や設計思想にこだわるタイプのエンジニアです。  
-Web フロントから Rust × WebAssembly のような低レイヤー領域まで、  
+<img src="./assets/New Piskel_Mizuki_PC.gif" alt="me!" width="300" align="left">
+
+<p><strong>Mizuki Aoki</strong></p>
+
+<details　open>
+  <summary>Nutrition Facts (per repo) / 栄養成分表示（1 プロダクトあたり）</summary>
+
+-   TypeScript …… 70%
+-   Rust & Wasm …… 10%
+-   UI/UX & Motion …… 20%
+-   Sugar …… ∞% (exceeds daily value)
+
+</details>
+
+<br clear="left"/>
+
+<!-- ![I work as a SWE](./assets/I_work_as_a_SWE.svg) <br>
+![I work as a SWE](./assets/software_engineer.svg) -->
+
+<!-- プロダクト志向で UI/UX や設計思想にこだわるタイプのエンジニアです。
+Web フロントから Rust × WebAssembly のような低レイヤー領域まで、
 操作の反応や動きの気持ちよさを重視し、触っていて“直感的に使える”プロダクトを目指しています。
 
-I'm a product-oriented software engineer who loves building thoughtful UI/UX,  
+I'm a product-oriented software engineer who loves building thoughtful UI/UX,
 designing full-stack architecture, and experimenting with new languages and runtimes like Rust.
 
-**Interests**  
+**Interests**
 `#UI/UX設計` `#Full-stack開発` `#Rust×Web` `#TypeScript` `#SaaS開発`
 
-_Exploring design-driven development, Web performance, and cross-platform product development._
+_Exploring design-driven development, Web performance, and cross-platform product development._ -->
 
 ## Skills
 
