@@ -6,7 +6,7 @@
 
 <p><strong>Mizuki Aoki</strong></p>
 
-<details　open>
+<details open>
   <summary>Nutrition Facts (per repo) / 栄養成分表示（1 プロダクトあたり）</summary>
 
 -   TypeScript …… 70%
