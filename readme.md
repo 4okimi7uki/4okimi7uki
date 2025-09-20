@@ -2,7 +2,10 @@
 
 ## About Me
 
-<img src="./assets/New Piskel_Mizuki_PC.gif" alt="me!" width="300" align="left">
+<picture>
+    <source media="(max-width: 700px)" srcset="./assets/New Piskel_Mizuki_PC_500x500.gif" />
+    <img src="./assets/New Piskel_Mizuki_PC.gif" alt="me!" width="300" align="left">
+</picture>
 
 <p><strong>Mizuki Aoki</strong></p>
 
