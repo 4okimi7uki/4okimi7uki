@@ -6,6 +6,9 @@
     <source media="(max-width: 700px)" srcset="./assets/New Piskel_Mizuki_PC_500x500.gif" />
     <img src="./assets/New Piskel_Mizuki_PC.gif" alt="me!" width="300" align="left">
 </picture>
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="50" height="50" fill="transparent"/>
+</svg>
 
 <p><strong>Mizuki Aoki</strong></p>
 
@@ -137,4 +140,4 @@ Rust のキャッチアップも兼ねて実装。
 
 ---
 
-_Last updated: 2025/08/18_
+_Last updated: 2025/10/13_
