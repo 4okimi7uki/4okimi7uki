@@ -6,9 +6,7 @@
     <source media="(max-width: 700px)" srcset="./assets/New Piskel_Mizuki_PC_500x500.gif" />
     <img src="./assets/New Piskel_Mizuki_PC.gif" alt="me!" width="300" align="left">
 </picture>
-<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="50" height="50" fill="transparent"/>
-</svg>
+<img src="./assets/spacer.svg" width="30" height="30" fill="transparent" />
 
 <p><strong>Mizuki Aoki</strong></p>
 
