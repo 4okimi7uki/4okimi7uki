@@ -6,7 +6,7 @@
     <source media="(max-width: 700px)" srcset="./assets/New Piskel_Mizuki_PC_500x500.gif" />
     <img src="./assets/New Piskel_Mizuki_PC.gif" alt="me!" width="300" align="left">
 </picture>
-<img src="./assets/spacer.svg" width="30" height="30" fill="transparent" />
+<img src="./assets/spacer.svg" width="50" height="50" />
 
 <p><strong>Mizuki Aoki</strong></p>
 
