@@ -6,7 +6,7 @@
 </picture>
 <img src="./assets/spacer.svg" width="50" height="50" />
 
-<p><strong>Mizuki Aoki</strong></p>
+<p><strong>Mizuki Aoki.</strong></p>
 
 <details open>
   <summary>Nutrition Facts (per repo) / 栄養成分表示（1 プロダクトあたり）</summary>
