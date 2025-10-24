@@ -20,20 +20,7 @@
 
 <br clear="left"/>
 
-## Skills
-
-### Just the good stuff
-
-![icons](https://skillicons.dev/icons?i=js,ts,react,tailwind,rust,wasm,tauri,docker,figma,apple,debian)
-
-### Stats
-
-<a href="https://github.com/4okimi7uki/self-reposcope"><img src="https://github.com/4okimi7uki/4okimi7uki/blob/main/output/full_languages.svg" alt="stats" />
-<br />
-<em> 👉 Developed by me! — Supports **private** repositories </em>
-</a>
-
-## 🚀 My Projects
+## 🚀 Projects
 
 ### [Kongari-Toast 🍞](https://github.com/4okimi7uki/kongari-toast)
 
@@ -44,13 +31,16 @@
 アニメーションや通知の“現れ方・消え方”にこだわりを持ち込み、  
 **思想ベースの UI 設計と OSS 活動**として継続的に開発・改善中。
 
--   [Demo page](https://4okimi7uki.github.io/kongari-toast/)
+#### 👉🏻👉🏻👉🏻 [Demo page](https://4okimi7uki.github.io/kongari-toast/) 👈🏻👈🏻👈🏻
 
 `#TypeScript` `#CSSAnimation` `#npm`
 
 ---
 
 ### [Self-Reposcope 🔍](https://github.com/4okimi7uki/self-reposcope)
+
+<a href="https://github.com/4okimi7uki/self-reposcope"><img src="https://github.com/4okimi7uki/4okimi7uki/blob/main/output/full_languages.svg" alt="stats" />
+</a>
 
 > Most of our real work hides in private repos.
 > Self-Reposcope reveals what you actually code — safely, and with Rust-powered clarity.
@@ -65,4 +55,4 @@ Rust のキャッチアップも兼ねて実装。
 
 ---
 
-_Last updated: 2025/10/13_
+_Last updated: 2025/10/24_
