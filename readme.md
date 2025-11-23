@@ -53,6 +53,8 @@ Rust のキャッチアップも兼ねて実装。
 
 `#Rust` `#GitHubAPI` `#DataVisualization` `#repository-stats`
 
+<!--Note: EXCLUD_ELANG=HTML, CSS, Makefile, MDX-->
+
 ---
 
 _Last updated: 2025/10/24_
