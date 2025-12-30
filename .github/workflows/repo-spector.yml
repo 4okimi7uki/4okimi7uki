@@ -1,8 +1,8 @@
-name: Update Language Stats
+name: Update Language Stats by repo-spector
 
 on:
-  # schedule:
-  #     - cron: "0 0 * * 1" # Every Monday
+  schedule:
+    - cron: "0 0 * * 1" # Every Monday
   workflow_dispatch:
 
 jobs:
@@ -15,18 +15,19 @@ jobs:
       - name: Checkout target repo
         uses: actions/checkout@v3
 
-      - name: Download self-reposcope binary from GitHub Release
+      - name: Download repo-spector binary from GitHub Release
         shell: bash
         run: |
-          curl -L https://github.com/4okimi7uki/self-reposcope/releases/latest/download/self-reposcope -o self-reposcope
-          chmod +x ./self-reposcope
+          curl -L https://github.com/4okimi7uki/repo-spector/releases/latest/download/repo-spector -o repo-spector
+          chmod +x ./repo-spector
 
-      - name: Run self-reposcope CLI
+      - name: Run repo-spector CLI
         shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           mkdir -p output
-          ./self-reposcope --token ${{ secrets.REPOSCOPE_TOKEN }} \
-          --excluded-languages "${{ secrets.EXCLUDED_LANGUAGES }}"
+          ./repo-spector -x "${{ secrets.EXCLUDED_LANGUAGES }}"
 
       - name: Commit and Push updated SVGs
         shell: bash

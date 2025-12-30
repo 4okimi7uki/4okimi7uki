@@ -35,7 +35,7 @@
 
 ### [Self-Reposcope 🔍](https://github.com/4okimi7uki/self-reposcope)
 
-<a href="https://github.com/4okimi7uki/self-reposcope"><img src="https://github.com/4okimi7uki/4okimi7uki/blob/main/output/full_languages.svg" alt="stats" />
+<a href="https://github.com/4okimi7uki/self-reposcope"><img src="https://github.com/4okimi7uki/4okimi7uki/blob/main/output/top6_lang.svg" alt="stats" />
 </a>
 
 > Most of our real work hides in private repos.
