@@ -1,4 +1,4 @@
-<h2 align="center">Mɪᴢᴜᴋɪ Aᴏᴋɪ 🍕</h2> 
+<h2 align="center">🥤 Mɪᴢᴜᴋɪ Aᴏᴋɪ 🍕</h2> 
   <picture>
       <source media="(max-width: 700px)" srcset="./assets/New Piskel_Mizuki_PC_500x500.gif" />
       <img src="./assets/New Piskel_Mizuki_PC.gif" alt="me!" width="300" align="left">
