@@ -7,7 +7,7 @@
 
   <table align="left">
     <tr>
-      <th><h3 align="left">Wᴇᴇᴋʟʏ Uᴘᴅᴀᴛᴇ ⤵</h3></th>
+      <th><h3 align="center">Wᴇᴇᴋʟʏ Uᴘᴅᴀᴛᴇ ⤵</h3></th>
     </tr>
     <tr>
       <td><a href="https://github.com/4okimi7uki/repo-spector"><img src="./output/top6_lang.svg" alt="stats" height="250" /></a></td>
