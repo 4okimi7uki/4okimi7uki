@@ -2,12 +2,12 @@
 <div align="center">
   <picture>
       <source media="(max-width: 700px)" srcset="./assets/New Piskel_Mizuki_PC_500x500.gif" />
-      <img src="./assets/New Piskel_Mizuki_PC.gif" alt="me!" width="300" align="left">
+      <img src="./assets/New Piskel_Mizuki_PC.gif" alt="me!" width="350" align="left">
   </picture>
 
   <table align="left">
     <tr>
-      <td><h3 align="left">Wᴇᴇᴋʟʏ Uᴘᴅᴀᴛᴇ ⤵</h3></td>
+      <th><h3 align="left">Wᴇᴇᴋʟʏ Uᴘᴅᴀᴛᴇ ⤵</h3></th>
     </tr>
     <tr>
       <td><a href="https://github.com/4okimi7uki/repo-spector"><img src="./output/top6_lang.svg" alt="stats" height="250" /></a></td>
