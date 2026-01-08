@@ -2,7 +2,7 @@
 <div align="center">
   <picture>
     <source media="(max-width: 700px)" srcset="./assets/New Piskel_Mizuki_PC_500x500.gif" />
-    <img src="./assets/New Piskel_Mizuki_PC.gif" alt="me!" width="350" align="center">
+    <img src="./assets/New Piskel_Mizuki_PC.gif" alt="me!" width="300" align="center">
   </picture>
 
   <h3 align="center">𝗪ᴇᴇᴋʟʏ 𝗨ᴘᴅᴀᴛᴇ ⤵</h3>
