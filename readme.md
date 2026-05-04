@@ -6,7 +6,7 @@
   </picture>
 
   <h3 align="center">𝗪ᴇᴇᴋʟʏ 𝗨ᴘᴅᴀᴛᴇ ⤵</h3>
-  <a href="https://github.com/4okimi7uki/repo-spector"><img src="./output/top6_lang.svg" alt="stats" height="250" /></a>
+  <a href="https://github.com/4okimi7uki/repo-spector"><img src="./output/classic_theme.svg" alt="stats" height="250" /></a>
 </div>
 
 <br/>
