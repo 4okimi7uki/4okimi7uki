@@ -27,7 +27,7 @@ jobs:
           GH_TOKEN: ${{ secrets.SCOPE_TOKEN }}
         run: |
           mkdir -p output
-          ./repo-spector -x "${{ secrets.EXCLUDED_LANGUAGES }}" --style classic
+          ./repo-spector -x "${{ secrets.EXCLUDED_LANGUAGES }}" --theme classic
 
       - name: Commit and Push updated SVGs
         shell: bash
