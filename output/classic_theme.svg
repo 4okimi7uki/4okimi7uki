@@ -17,37 +17,37 @@
 
 <rect width="370" height="10" x="20" y="60" rx="5" ry="5" fill="#3D444D" />
 <g clip-path="url(#roundedClip)">
-	<rect x="20.000000" y="60" width="154.954000" height="10" fill="#00ADD8"> <title>Go 42.42%</title> </rect>
-	<rect x="176.954000" y="60" width="140.487000" height="10" fill="#3178c6"> <title>TypeScript 38.51%</title> </rect>
-	<rect x="319.441000" y="60" width="20.348000" height="10" fill="#f1e05a"> <title>JavaScript 6.04%</title> </rect>
-	<rect x="341.789000" y="60" width="14.354000" height="10" fill="#dea584"> <title>Rust 4.42%</title> </rect>
-	<rect x="358.143000" y="60" width="5.289000" height="10" fill="#A97BFF"> <title>Kotlin 1.97%</title> </rect>
-	<rect x="365.432000" y="60" width="5.141000" height="10" fill="#c6538c"> <title>SCSS 1.93%</title> </rect>
-	<rect x="372.573000" y="60" width="4.475000" height="10" fill="#3572A5"> <title>Python 1.75%</title> </rect>
-	<rect x="379.048000" y="60" width="3.217000" height="10" fill="#00ADD8"> <title>Go Template 1.41%</title> </rect>
-	<rect x="384.265000" y="60" width="0.627000" height="10" fill="#384d54"> <title>Dockerfile 0.71%</title> </rect>
-	<rect x="386.892000" y="60" width="0.257000" height="10" fill="#89e051"> <title>Shell 0.61%</title> </rect>
-	<rect x="389.149000" y="60" width="-1.223000" height="10" fill="#4F5D95"> <title>PHP 0.21%</title> </rect>
+	<rect x="20.000000" y="60" width="157.766000" height="10" fill="#00ADD8"> <title>Go 43.18%</title> </rect>
+	<rect x="179.766000" y="60" width="138.600000" height="10" fill="#3178c6"> <title>TypeScript 38.00%</title> </rect>
+	<rect x="320.366000" y="60" width="20.052000" height="10" fill="#f1e05a"> <title>JavaScript 5.96%</title> </rect>
+	<rect x="342.418000" y="60" width="14.169000" height="10" fill="#dea584"> <title>Rust 4.37%</title> </rect>
+	<rect x="358.587000" y="60" width="5.215000" height="10" fill="#A97BFF"> <title>Kotlin 1.95%</title> </rect>
+	<rect x="365.802000" y="60" width="5.067000" height="10" fill="#c6538c"> <title>SCSS 1.91%</title> </rect>
+	<rect x="372.869000" y="60" width="4.401000" height="10" fill="#3572A5"> <title>Python 1.73%</title> </rect>
+	<rect x="379.270000" y="60" width="3.143000" height="10" fill="#00ADD8"> <title>Go Template 1.39%</title> </rect>
+	<rect x="384.413000" y="60" width="0.590000" height="10" fill="#384d54"> <title>Dockerfile 0.70%</title> </rect>
+	<rect x="387.003000" y="60" width="0.257000" height="10" fill="#89e051"> <title>Shell 0.61%</title> </rect>
+	<rect x="389.260000" y="60" width="-1.223000" height="10" fill="#4F5D95"> <title>PHP 0.21%</title> </rect>
 </g>
 
 <circle cx="30" cy="105" r="6" fill="#00ADD8" />
-<text x="46" y="109" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill="currentColor"><tspan>Go</tspan> 42.42%</text>
+<text x="46" y="109" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill="currentColor"><tspan>Go</tspan> 43.18%</text>
 <circle cx="225" cy="105" r="6" fill="#3178c6" />
-<text x="241" y="109" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill="currentColor"><tspan>TypeScript</tspan> 38.51%</text>
+<text x="241" y="109" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill="currentColor"><tspan>TypeScript</tspan> 38%</text>
 <circle cx="30" cy="129" r="6" fill="#f1e05a" />
-<text x="46" y="133" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill="currentColor"><tspan>JavaScript</tspan> 6.04%</text>
+<text x="46" y="133" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill="currentColor"><tspan>JavaScript</tspan> 5.96%</text>
 <circle cx="225" cy="129" r="6" fill="#dea584" />
-<text x="241" y="133" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill="currentColor"><tspan>Rust</tspan> 4.42%</text>
+<text x="241" y="133" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill="currentColor"><tspan>Rust</tspan> 4.37%</text>
 <circle cx="30" cy="153" r="6" fill="#A97BFF" />
-<text x="46" y="157" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill="currentColor"><tspan>Kotlin</tspan> 1.97%</text>
+<text x="46" y="157" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill="currentColor"><tspan>Kotlin</tspan> 1.95%</text>
 <circle cx="225" cy="153" r="6" fill="#c6538c" />
-<text x="241" y="157" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill="currentColor"><tspan>SCSS</tspan> 1.93%</text>
+<text x="241" y="157" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill="currentColor"><tspan>SCSS</tspan> 1.91%</text>
 <circle cx="30" cy="177" r="6" fill="#3572A5" />
-<text x="46" y="181" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill="currentColor"><tspan>Python</tspan> 1.75%</text>
+<text x="46" y="181" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill="currentColor"><tspan>Python</tspan> 1.73%</text>
 <circle cx="225" cy="177" r="6" fill="#00ADD8" />
-<text x="241" y="181" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill="currentColor"><tspan>Go Template</tspan> 1.41%</text>
+<text x="241" y="181" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill="currentColor"><tspan>Go Template</tspan> 1.39%</text>
 <circle cx="30" cy="201" r="6" fill="#384d54" />
-<text x="46" y="205" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill="currentColor"><tspan>Dockerfile</tspan> 0.71%</text>
+<text x="46" y="205" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill="currentColor"><tspan>Dockerfile</tspan> 0.7%</text>
 <circle cx="225" cy="201" r="6" fill="#89e051" />
 <text x="241" y="205" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill="currentColor"><tspan>Shell</tspan> 0.61%</text>
 <circle cx="30" cy="225" r="6" fill="#4F5D95" />
